@@ -1,9 +1,9 @@
-vless://55a4e556-2b2e-475f-a049-ac4d613f1132@194.87.31.249:443?security=reality&encryption=none&alpn=h2&pbk=lw8WDA05mV55Y2F2lQAig2P_SmcJEn3QhvbPIT2IsWU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=d398407b9a89c8ae#Reality+%7C+T.me%2FAcademy_Mohammadi_5
+vless://55a4e556-2b2e-475f-a049-ac4d613f1132@194.87.31.249:443?security=reality&encryption=none&alpn=h2&pbk=lw8WDA05mV55Y2F2lQAig2P_SmcJEn3QhvbPIT2IsWU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=d398407b9a89c8ae#Reality5+%7C+T.me%2FAcademy_Mohammadi
 
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.12.76.211:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ce#Reality+%7C+T.me%2FAcademy_Mohammadi_4
+vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.12.76.211:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ce#Reality4+%7C+T.me%2FAcademy_Mohammadi
 
-vless://6c39add6-18b8-577c-9a9c-be2082507050@[::ffff:310d:1d9f]:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#Reality+%7C+T.me%2FAcademy_Mohammadi_3
+vless://6c39add6-18b8-577c-9a9c-be2082507050@[::ffff:310d:1d9f]:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#Reality3+%7C+T.me%2FAcademy_Mohammadi
 
-vless://6c39add6-18b8-577c-9a9c-be2082507050@[::ffff:310d:1d9f]:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#Reality+%7C+T.me%2FAcademy_Mohammadi_2
+vless://6c39add6-18b8-577c-9a9c-be2082507050@[::ffff:310d:1d9f]:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#Reality2+%7C+T.me%2FAcademy_Mohammadi
 
-vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.29.159:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#Reality+%7C+T.me%2FAcademy_Mohammadi_1
+vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.29.159:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#Reality1+%7C+T.me%2FAcademy_Mohammadi
