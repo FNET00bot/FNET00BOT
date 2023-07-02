@@ -1,3 +1,5 @@
+<----Azadi----> 
+
 ﻿Azadi 1
 
 vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiMSBBemFkaSB8IFQubWUvRk5FVDAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
@@ -58,6 +60,20 @@ vmess://eyJhZGQiOiIxMTYuMjAzLjIuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 Azadi14
 
 vmess://eyJhZGQiOiIxMTYuMjAzLjIuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJkZmY2ZTg3ZS03OTRmLTQxYzUtYTg5Ni1mOTI1NDMxZmQ5NzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IjE0IEF6YWRpIHwgVC5tZS9GTkVUMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+Azadi15
+
+vmess://eyJhZGQiOiJwaW5rcG90YXRvLWNsb3VkLmZyZWVuZXRmb3Jwcm9ncmFtbWVycy50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmFzdC5jb20iLCJpZCI6InBpbmstcG90YXRvLWNsb3VkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoiMTUgQXphZGkgfCBULm1lL0ZORVQwMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+<----Trojan----> 
+
+
+Trojan 1
+
+trojan://telegram-id-privatevpns@3.9.165.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#1+Trojan++%7C+T.me%2FFNET00
+
+
+<----Reality---->
 
 reality1
 
@@ -326,3 +342,7 @@ vless://f4f9cacc-023e-44bc-9aa9-f99d73ff8b90@5.230.54.21:443?security=reality&en
 reality68
 
 vless://Xv2rayNG-Xv2rayNG-Xv2rayNG-45@Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG.vazagh.top:443?security=reality&encryption=none&pbk=thTDF1RLaxWVIji-EpaWNoRZJaF9k17fytv46-P02VE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=cae3ef#52+Reality+%7C+T.me%2FFNET00
+
+reality69
+
+vless://join-4free-pinkpotatocloud@pinkpotato-cloud.freenetforprogrammers.tk:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#53+Reality+%7C+T.me%2FFNET00
