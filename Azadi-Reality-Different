@@ -28,3 +28,20 @@ vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443/?type=tcp&encryptio
 vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443?security=reality&encryption=none&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=cb590e6fe1b987bc#Telegram+%7C+%40FNET00%E2%9A%A1
 
 vless://9c5350e4-7eb5-49a7-8db5-7519dc0bd995@194.87.31.249:8443?security=reality&encryption=none&pbk=bE9rSX4zIWnF3lDy-DvyjD60dA6CJZJ15LR_njSuAQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=8dfbedee1d564c58#Telegram+%7C+%40FNET00%E2%9A%A1
+
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#Telegram+%7C+%40FNET00%E2%9A%A1
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.1.100:8008#Telegram+%7C+%40FNET00%E2%9A%A1
+
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMTk0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IlRlbGVncmFtIHwgQEZORVQwMOKaoSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#Telegram+%7C+%40FNET00%E2%9A%A1
+
+vmess://eyJhZGQiOiI4OS4xMTYuMzguMjA4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IlRlbGVncmFtIHwgQEZORVQwMOKaoSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+trojan://telegram-id-privatevpns@18.202.165.161:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#Telegram+%7C+%40FNET00%E2%9A%A1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#Telegram+%7C+%40FNET00%E2%9A%A1
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.1.100:9102#Telegram+%7C+%40FNET00%E2%9A%A1
+
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#Telegram+%7C+%40FNET00%E2%9A%A1
+
+vless://a0e97727-1695-45b1-abea-46f3a0676c7d@nett.numallaf.shop:34301?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
