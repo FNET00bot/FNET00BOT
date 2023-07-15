@@ -98,4 +98,3 @@ vless://d7b28144-cd6e-456b-9a5b-fac3a33798c7@104.31.16.65:2096?mode=gun&security
 vless://35bc615f-c541-45a7-b5e4-5683d8293d92@MCI-vpncustomize.aparat.lol:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=gy.TrV2ray.cfd#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest2.wlftest.xyz:443?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://channel-MsV2ray@65.21.245.85:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@MsV2ray#Telegram+%7C+%40FNET00%E2%9A%A1
-vless://515ccfea-41f8-446d-8355-343a03e780c6@135.125.55.253:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=0Z7BGYU69jI4ZJLtU3QVi9h#Telegram+%7C+%40FNET00%E2%9A%A1
