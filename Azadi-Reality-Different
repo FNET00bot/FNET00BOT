@@ -94,3 +94,5 @@ vless://8c60bd99-b5d8-491a-b8a4-234b859a8ddf@mtn.kanal-tel-nufilter.site:443?sec
 vless://d87dab39-daef-492b-b567-b15816c0f049@irancell.kanal-tel-nufilter.store:443?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.55.198:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://vpn-xw@45.95.232.98:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Telegram+%7C+%40FNET00%E2%9A%A1
+vless://5e3b6316-d4a7-4a5a-e203-809f4951dad5@49.13.29.3:40636?security=none&encryption=none&host=speedtest.net%2C+telewebion.com&headerType=http&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
+vless://ff32d79e-ad47-4532-ad89-f1615004cfc7@116.203.191.170:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
