@@ -96,3 +96,6 @@ vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.55.198:8443?security=none&e
 vless://vpn-xw@45.95.232.98:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://5e3b6316-d4a7-4a5a-e203-809f4951dad5@49.13.29.3:40636?security=none&encryption=none&host=speedtest.net%2C+telewebion.com&headerType=http&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
 vless://ff32d79e-ad47-4532-ad89-f1615004cfc7@116.203.191.170:80?security=none&encryption=none&headerType=none&type=tcp#Telegram+%7C+%40FNET00%E2%9A%A1
+vless://qq@128.140.114.153:443?security=reality&encryption=none&pbk=UqlofgVLo7s3e9BEiDY6L5jxDp-31Px0EfzeUJkSank&headerType=none&fp=chrome&type=tcp&sni=www.zula.ir#Telegram+%7C+%40FNET00%E2%9A%A1
+vless://ba94c718-b23d-4e08-ba32-d15b8c4cdb19@big.melov2ray.store:27100?security=reality&encryption=none&pbk=INX2VXKWv7KOxQbMzKSFSLRut5z3uLyKUkEEUyB3C3Q&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=e50bf730#Telegram+%7C+%40FNET00%E2%9A%A1
+vless://979f97c1-465c-49a2-b924-6c4f7759c30f@MCI-vpncustomize.aparat.lol:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=yiy.TrV2ray.cfd#Telegram+%7C+%40FNET00%E2%9A%A1
