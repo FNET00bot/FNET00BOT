@@ -76,7 +76,4 @@ TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR
 #### ERC20: 
 0x63AeA864381b9686b98F56b4156D2d415e37F0FB
 
-#### CRC20:
-0x63AeA864381b9686b98F56b4156D2d415e37F0FB
-
 ## به امید اینترنت آزاد برای همه مردم ایران! :) 🕊️✌️
