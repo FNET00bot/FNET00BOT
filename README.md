@@ -1,4 +1,4 @@
-<h1 align="center">V2Hub | Telegram : @FNET00</h1>
+<h1 align="center">Configuration | Telegram : @FNET00</h1>
 
 # different config v2ay
 # کانفیگ v2ray مختلف برای شما!
