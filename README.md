@@ -1,3 +1,5 @@
+<h1 align="center">V2Hub | Telegram : @FNET00</h1>
+
 # different config v2ay
 # کانفیگ v2ray مختلف برای شما!
 
@@ -12,9 +14,7 @@
 
 کانال تلگرام : https://t.me/fnet00
 
-ربات تلگرام : https://t.me/fnet00_bot
-
-
+ربات تلگرام : https://t.me/fnet00_
 # لینک سابسکریپشن: 
 
 ## Main: 
