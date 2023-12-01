@@ -14,7 +14,7 @@
 
 کانال تلگرام : https://t.me/fnet00
 
-ربات تلگرام : https://t.me/fnet00_
+ربات تلگرام : https://t.me/fnet00_bot
 # لینک سابسکریپشن: 
 
 ## Main: 
