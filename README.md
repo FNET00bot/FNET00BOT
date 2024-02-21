@@ -19,7 +19,7 @@
 
 ## Main: 
 
-'''https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different'''
+```https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different```
 
 ## Base64:
 
