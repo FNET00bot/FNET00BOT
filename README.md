@@ -1,4 +1,4 @@
-<h1 align="center">Configuration | Telegram : @FNET00</h1>
+<h1 align="center">🌿 Configuration | Telegram : @FNET00 🚀</h1>
 
 # کانفیگ v2ray مختلف برای شما!
 
