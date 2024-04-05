@@ -40,21 +40,21 @@ https://www.coffeebede.com/mr_amirr_m
 ## پرداخت با ارز: 
 
 ### BTC: 
-bc1qzyn3snspu4neh8et8yd8rf9se8vmrnfua5a04q
+```bc1qzyn3snspu4neh8et8yd8rf9se8vmrnfua5a04q```
 
 ### ETH: 
-0x63AeA864381b9686b98F56b4156D2d415e37F0FB
+```0x63AeA864381b9686b98F56b4156D2d415e37F0FB```
 
 ### TRON (TRX): 
-TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR
+```TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR```
 
 
 ### USDT: 
 
 #### TRC20: 
-TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR
+```TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR```
 
 ### ERC20: 
-0x63AeA864381b9686b98F56b4156D2d415e37F0FB
+```0x63AeA864381b9686b98F56b4156D2d415e37F0FB```
 
 ## به امید اینترنت آزاد برای همه مردم ایران! :) 🕊️✌️
