@@ -19,11 +19,11 @@ _🤖 ربات تلگرام : https://t.me/fnet00_bot_
 
 *Main:* 
 
-```https://raw.githubusercontent.com/FNET00Bot/FNET00/Config/Azadi-Reality-Different```
+```https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Main```
 
 *Base64:*
 
-```https://raw.githubusercontent.com/FNET00Bot/FNET00/Config/Azadi-Reality-Different-Base64```
+```https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Base64```
 
 
 # دونیت ( حمایت مالی ):
