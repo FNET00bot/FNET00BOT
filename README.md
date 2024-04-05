@@ -1,47 +1,30 @@
 <h1 align="center">Configuration | Telegram : @FNET00</h1>
 
-# different config v2ay
 # کانفیگ v2ray مختلف برای شما!
 
 
 آزادی ار اینجا میگذرد!🎧🤍
 
 
- کانفیگ مناسب برای اندروید و آیفون  
+ کانفیگ مناسب برای اندروید و آیفون! 🚀 
  
 
-# ما را دنبال کنید...
+### 👀 ما را دنبال کنید...
 
-کانال تلگرام : https://t.me/fnet00
+_🔰 کانال تلگرام : https://t.me/fnet00_
 
-ربات تلگرام : https://t.me/fnet00_bot
-# لینک سابسکریپشن: 
-
-## Main: 
-
-`https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different`
-
-## Base64:
-
-https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different-Base64
+_🤖 ربات تلگرام : https://t.me/fnet00_bot_
 
 
-# آموزش استفاده و اتصال :
+## لینک سابسکریپشن: 
 
+*Main:* 
 
-# اندروید: 
- V2rayng: 
+```https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different```
 
-https://t.me/fnet00/85
+*Base64:*
 
-# آیفون: 
-
- Foxray: 
-
-https://t.me/fnet00/296?single
-
-
-
+```https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different-Base64```
 
 # دونیت ( حمایت مالی ):
 
@@ -73,7 +56,7 @@ TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR
 #### TRC20: 
 TCtESpeuN4na3sLKwDB4o9rQWqy716WtpR
 
-#### ERC20: 
+### ERC20: 
 0x63AeA864381b9686b98F56b4156D2d415e37F0FB
 
 ## به امید اینترنت آزاد برای همه مردم ایران! :) 🕊️✌️
