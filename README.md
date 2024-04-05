@@ -27,16 +27,8 @@ _🤖 ربات تلگرام : https://t.me/fnet00_bot_
 
 # دونیت ( حمایت مالی ):
 
+
 ## پرداخت ایرانی: 
-
-#### IDPAY: 
-https://idpay.ir/mr-amir-00
-
-#### Cofee: 
-https://www.coffeete.ir/Amir_m_88
-
-#### CoffeeBede: 
-https://www.coffeebede.com/mr_amirr_m
 
 ## پرداخت با ارز: 
 
