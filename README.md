@@ -25,11 +25,11 @@ _🤖 ربات تلگرام : https://t.me/fnet00_bot_
 
 ```https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different-Base64```
 
-# دونیت ( حمایت مالی ):
-### https://daramet.com/FNET00
 
+# دونیت ( حمایت مالی ):
 ## پرداخت ایرانی: 
 
+### https://daramet.com/FNET00
 ## پرداخت با ارز: 
 
 ### BTC: 
