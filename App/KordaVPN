@@ -1,0 +1,8 @@
+vless://ea59ef39-83c0-4328-8d7f-d80d9f8d9d52@fl99.korda.top:2053?type=grpc&security=tls&serviceName=fl99.korda.top&sni=fl99.korda.top&fp=chrome#fl99
+vless://3c831d95-5cdd-463f-da4c-82a266dbeee8@fl96.korda.top:2083?type=grpc&security=tls&serviceName=fl96.korda.top&sni=fl96.korda.top&fp=chrome#f2
+vless://b74cc8a1-15e1-43b2-889e-47c1871cada5@89.116.250.4:2087?type=grpc&security=tls&serviceName=fl97.korda.top&sni=fl97.korda.top&fp=chrome#f3
+vless://cc41e3b1-7573-4add-ed7c-635ef45d6821@104.22.13.120:2096?type=grpc&security=tls&serviceName=fl100.korda.top&sni=fl100.korda.top&fp=chrome#f4
+vless://40319a4b-70a8-41d2-b0af-d0612d399755@de105.dailybodymind.com:2053?type=grpc&security=tls&serviceName=de105.dailybodymind.com&sni=de105.dailybodymind.com&fp=chrome#g1
+vless://479a70d8-3752-4252-897e-96ce6ce32185@de106.dailybodymind.com:2083?type=grpc&security=tls&serviceName=de106.dailybodymind.com&sni=de106.dailybodymind.com&fp=chrome#g2
+vless://05fba59f-7345-4efa-c6c6-44b6ea865e5d@de107.dailybodymind.com:2087?type=grpc&security=tls&serviceName=de107.dailybodymind.com&sni=de107.dailybodymind.com&fp=chrome#g3
+vless://3518d00c-4a5e-4be8-a553-51554fa4daf5@de108.dailybodymind.com:2096?type=grpc&security=tls&serviceName=de108.dailybodymind.com&sni=de108.dailybodymind.com&fp=chrome#g4
