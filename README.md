@@ -103,7 +103,6 @@
       <a href="https://bianyuan.xyz/">bianyuan</a>
     </p>
   </li>
-  <li>
 
 # Donate:
 ### ₹ Rial support:
