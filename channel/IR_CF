@@ -1,0 +1,4 @@
+vless://5c61825d-2c36-4891-adb3-ccbd0d00f324@178.63.150.70:2045/?encryption=none&flow=&host=fast.com&type=tcp&headerType=http#%40IP_CF
+
+vless://5c61825d-2c36-4891-adb3-ccbd0d00f324@178.63.150.70:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.discordapp.com&fp=chrome&security=reality&pbk=zpIenNCQAKGQvOdoUvuhEf-JKotYa5UrP9j9XPodPD0&sid=#%40IP_CF
+cdn.discordapp.com#%E2%9A%9C%EF%B8%8FTelegram%3A+%40IP_CF
