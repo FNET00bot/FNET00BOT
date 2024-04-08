@@ -1,3 +1,13 @@
+vless://c49e2c14-e9f7-4393-98a8-0013f4de74c6@de150.dailybodymind.com:2053?type=grpc&security=tls&serviceName=de150.dailybodymind.com&sni=de150.dailybodymind.com&fp=chrome#g1
+vless://f8d7225e-17ba-4934-d2bb-dd982037533d@de151.dailybodymind.com:2083?type=grpc&security=tls&serviceName=de151.dailybodymind.com&sni=de151.dailybodymind.com&fp=chrome#g2
+vless://9e7fb1c1-760f-4201-bf4c-f1ab91b85a38@de152.dailybodymind.com:2087?type=ws&security=tls&path=%2F&sni=de152.dailybodymind.com&fp=chrome#g3
+vless://f652db6b-88b7-4dc2-a1ce-36ab48ae5953@de153.dailybodymind.com:2096?type=ws&security=tls&path=%2F&sni=de153.dailybodymind.com&fp=chrome#g4
+vless://86d44687-74d1-4f39-9038-886d7360d2bc@fn28.korda.top:2053?type=grpc&security=tls&serviceName=fn28.korda.top&sni=fn28.korda.top&fp=chrome#fn28
+vless://26cf5f54-c6af-482d-daed-dca5df8b3fa9@fn29.korda.top:2083?type=grpc&security=tls&serviceName=fn29.korda.top&sni=fn29.korda.top&fp=chrome#f2
+vless://83f92ac0-eb02-411c-ecc1-c50b3c867d0a@fn30.korda.top:2087?type=grpc&security=tls&serviceName=fn30.korda.top&sni=fn30.korda.top&fp=chrome#f3
+vless://80cd6188-6307-42a1-c93f-80c0bb89442e@fn31.korda.top:2096?type=ws&security=tls&path=%2F&sni=fn31.korda.top&fp=chrome#f4
+vless://ec74d69f-a3be-4819-c15a-92bf545068a0@us2.dailybodymind.com:2087?type=ws&security=tls&path=%2F&sni=us2.dailybodymind.com&fp=chrome#u1
+vless://a607a39d-91a8-47f0-9dd4-418a0f32b14f@us70.korda.top:2087?type=ws&security=tls&path=%2F&sni=us70.korda.top&fp=chrome#u2
 vless://ea59ef39-83c0-4328-8d7f-d80d9f8d9d52@fl99.korda.top:2053?type=grpc&security=tls&serviceName=fl99.korda.top&sni=fl99.korda.top&fp=chrome#fl99
 vless://3c831d95-5cdd-463f-da4c-82a266dbeee8@fl96.korda.top:2083?type=grpc&security=tls&serviceName=fl96.korda.top&sni=fl96.korda.top&fp=chrome#f2
 vless://b74cc8a1-15e1-43b2-889e-47c1871cada5@89.116.250.4:2087?type=grpc&security=tls&serviceName=fl97.korda.top&sni=fl97.korda.top&fp=chrome#f3
