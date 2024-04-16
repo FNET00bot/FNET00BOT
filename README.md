@@ -106,7 +106,9 @@
 
 <h2>Donate:</h2>
 <p>₹ Rial support:</p>
-<p href="https://daramet.com/FNET00" >click for donate</p>
+<p>
+<a href="https://daramet.com/FNET00" >click for donate</a> 
+</p>
 
 ### Currency support: 
 
