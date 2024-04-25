@@ -103,8 +103,8 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇮🇷 WARP - Iran - @FNET00",
-        "🇩🇪 WARP - Germany - @FNET00"
+        "🇮🇷 WARP - Iran",
+        "🇩🇪 WARP - Germany"
       ],
       "default": "auto"
     },
@@ -112,22 +112,22 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇮🇷 WARP - Iran - @FNET00",
-        "🇩🇪 WARP - Germany - @FNET00"
+        "🇮🇷 WARP - Iran",
+        "🇩🇪 WARP - Germany"
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
     },
     {
       "type": "wireguard",
-      "tag": "🇮🇷 WARP - Iran - @FNET00",
+      "tag": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
       ],
       "private_key": "AJ0si9MKGCtoC/NHwKc8G0MADbTPl/1M7KNWvM24W1g=",
-      "server": "188.114.97.45",
-      "server_port": 908,
+      "server": "188.114.97.139",
+      "server_port": 1010,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
       "mtu": 1280,
@@ -137,15 +137,15 @@
     },
     {
       "type": "wireguard",
-      "tag": "🇩🇪 WARP - Germany - @FNET00",
-      "detour": "🇮🇷 WARP - Iran - @FNET00",
+      "tag": "🇩🇪 WARP - Germany",
+      "detour": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
       ],
       "private_key": "iKXZlb1y3GtpI6shoSD3OMaC3RWmvO1kebNJRHeOm14=",
-      "server": "188.114.97.45",
-      "server_port": 908,
+      "server": "188.114.97.139",
+      "server_port": 1010,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "AAAA",
       "mtu": 1280,
