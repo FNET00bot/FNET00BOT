@@ -1,3 +1,4 @@
+![IMG_20240304_115208_302](https://github.com/FNET00bot/FNET00BOT/assets/117082202/c0f1fe3d-8df1-4b9e-b575-9eeedcd8c0ef)
 
 <h1 id="v2ray-collector" align="center">🎯 collector | FNET00™ 🤍</h1>
 <h2 id="v2ray-collector" align="center">Free internet or for everyone ♻️ or nobody ❌</h2>
