@@ -23,6 +23,7 @@
       <th>NORMAL SUBSCRIPTION</th>
       <th>BASE64 SUBSCRIPTION</th>
       <th>JSON SUBSCRIPTION</th>
+      <th>Hiddify SUBSCRIPTION</th>
     </tr>
   </thead>
   <tbody>
@@ -33,6 +34,9 @@
       </td>
       <td>
         <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Base64">BASE64 SUBSCRIPTION</a>
+      </td>
+            <td>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/hiddify">Hiddify SUBSCRIPTION</a>
       </td>
     </tr>
     <tr>
