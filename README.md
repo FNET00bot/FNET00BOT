@@ -36,6 +36,9 @@
         <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Base64">BASE64 SUBSCRIPTION</a>
       </td>
             <td>
+        <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/hiddify">JSON SUBSCRIPTION</a>
+      </td>
+                  <td>
         <a href="https://raw.githubusercontent.com/FNET00bot/FNET00/Config/hiddify">Hiddify SUBSCRIPTION</a>
       </td>
     </tr>
